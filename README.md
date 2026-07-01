@@ -103,4 +103,4 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Pravesh**
+**Pravesh SV**
