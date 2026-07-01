@@ -162,7 +162,7 @@ class CyberApp(QWidget):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle("Cybersecurity Sentinel")
+        self.setWindowTitle("CyberSecurity Sentinel")
 
         # Scores
         vbox = QVBoxLayout()
